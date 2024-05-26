@@ -37,7 +37,7 @@ top
 - RES: 상주메모리(Resident Memory)  크기, 프로세스가 실제로 사용하고 있는 물리 메모리 용량
 - SHR: 공유메모리(Shared Memory) 크기, 다른 프로세스와 공유하고 있는 공유 메모리 용량
 - S: 프로세스의 상태
-  - R: Runnung
+  - R: Running
   - S: Sleeping
   - I: Idle
   - D: Uninterruptable Sleep
@@ -58,11 +58,10 @@ https://velog.io/@ljk0509/EC2-top-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%9C%EB%8C%80
 
 https://velog.io/@ljk0509/EC2-top-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
 
+https://blog.naver.com/hongganz/222456616664
 
 
 ## ps 명령어
-1. Only foreground applications are allowed to be used.
-2. Debugging can be enabled via adb command.
 
 ## jobs 명령어
 
