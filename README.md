@@ -10,7 +10,8 @@ top
 
 
 ![top_command0](images/top/top_command0.png)
-![test](images/ps/sff-20230608-183015-000.jpg)
+
+### 간단 정보
 
 ### 참조 블로그들
 https://code-lab1.tistory.com/332
