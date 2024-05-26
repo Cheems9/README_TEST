@@ -9,7 +9,7 @@ top
 ```
 
 
-![top_command0](https://github.com/Cheems9/README_TEST/assets/170844889/e21d32e0-3b94-4a84-a066-d086ef2ba30e)
+![top_command0](images/top/top_command0.png)
 
 ### 참조 블로그들
 https://code-lab1.tistory.com/332
