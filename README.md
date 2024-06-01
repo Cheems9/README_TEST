@@ -1,4 +1,4 @@
-# 리눅스 명령어
+# 리눅스 명령어(top, ps, jobs, kill)
 
 ## top 명령어
 top 명령어는 리눅스 시스템의 cpu사용량, 메모리 사용량 등을 보여주는 명령어이다.
@@ -61,7 +61,7 @@ top
 |shift + t|Running time순으로 표시|
 
 
-### 참조 블로그들
+### 참조 블로그
 https://code-lab1.tistory.com/332
 
 https://velog.io/@ljk0509/EC2-top-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
@@ -132,7 +132,7 @@ top aux
 ```
 ![스크린샷 2024-06-01 132535](https://github.com/Cheems9/README_TEST/assets/170844889/74f3cfe8-0424-4a7a-9daf-0f2f44c06f2d)
 
-### 참조 블로그들
+### 참조 블로그
 https://co-no.tistory.com/entry/Linux-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9C%A0%EC%9A%A9%ED%95%9C-ps-%EB%AA%85%EB%A0%B9-%EC%98%88%EC%A0%9C
 
 https://blog.naver.com/tmk0429/222318530824
@@ -151,11 +151,11 @@ top jobs [옵션][jobs ID]
 | -ㅣ | 프로세스 그룹 ID를 state 필드 앞에 출력|
 |-n|프로세스 그룹 중 대표 프로세스 ID를 출력|
 |-p|각 프로세스 ID에 한 행씩 출력|
-### 참조 블로드들
+### 참조 블로그
 https://shaeod.tistory.com/968
 
 ## kill 명령어 
-kill 명령어는 프로세스를 종료할때 주요 사옹되는 명령어이다.
+kill 명령어는 프로세스를 종료할때 주요 사용되는 명령어이다.
 ```
 kill [옵션][PID]
 ```
